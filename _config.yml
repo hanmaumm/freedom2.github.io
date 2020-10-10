@@ -1,5 +1,5 @@
 # main text of home
-name: John Doe
+name: Sunny
 bio: A Man who travels the world eating noodles
 
 # twitter summary info
@@ -54,13 +54,13 @@ email: myemail@gmail.com
 
 authors:
   johndoe:
-    name: John Doe
+    name: Sunny
     bio: A Man who travels the world eating noodles
     external-image: false
     picture: assets/images/profile.jpg
     twitter: johndoe
   jamesfoster:
-    name: James Foster
+    name: JongSeon.Park
     bio: A Man who develops software with coffee
     external-image: false
     picture: assets/images/james.jpg
